@@ -1,8 +1,5 @@
 # Smart Home Mini — Bài thực hành 10
 
-Phan Thị Hải Yến — MSSV **202419124**.
-
-Mã nguồn: https://github.com/yenpth265-alt/Smart-Home-Mini
 
 Ứng dụng C#/.NET 8 chạy terminal, mô phỏng đèn, quạt và cửa; không kết nối thiết bị thật.
 
